@@ -1,0 +1,51 @@
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Business.deps.json
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Business.dll
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Business.pdb
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.csproj.AssemblyReference.cache
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.AssemblyInfoInputs.cache
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.AssemblyInfo.cs
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.dll
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\obj\Debug\net6.0\refint\CarparkBookingApi.Business.dll
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.pdb
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\obj\Debug\net6.0\ref\CarparkBookingApi.Business.dll
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Business.Interface.dll
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Repository.Interface.dll
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Business.Interface.pdb
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Repository.Interface.pdb
+C:\Users\ahraz\Documents\Coding C#\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.csproj.CopyComplete
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Business.deps.json
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Business.dll
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Business.pdb
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Business.Interface.dll
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Repository.Interface.dll
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Business.Interface.pdb
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Repository.Interface.pdb
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.csproj.AssemblyReference.cache
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.AssemblyInfoInputs.cache
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.AssemblyInfo.cs
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.csproj.CopyComplete
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.dll
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\refint\CarparkBookingApi.Business.dll
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.pdb
+C:\Users\ahraz\Documents\Coding C#\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\ref\CarparkBookingApi.Business.dll
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Business.deps.json
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Business.dll
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Business.pdb
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Business.Interface.dll
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Repository.Interface.dll
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Business.Interface.pdb
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\bin\Debug\net6.0\CarparkBookingApi.Repository.Interface.pdb
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.csproj.AssemblyReference.cache
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.AssemblyInfoInputs.cache
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.AssemblyInfo.cs
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.csproj.CoreCompileInputs.cache
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.csproj.CopyComplete
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.dll
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\refint\CarparkBookingApi.Business.dll
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\CarparkBookingApi.Business.pdb
+D:\CAVU\Shahabaz Project\CarparkBookingApi.Business\obj\Debug\net6.0\ref\CarparkBookingApi.Business.dll

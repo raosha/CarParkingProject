@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CarparkBookingApi.Business/1.0.0": {
+        "dependencies": {
+          "CarparkBookingApi.Business.Interface": "1.0.0",
+          "CarparkBookingApi.Repository.Interface": "1.0.0"
+        },
+        "runtime": {
+          "CarparkBookingApi.Business.dll": {}
+        }
+      },
+      "CarparkBookingApi.Business.Interface/1.0.0": {
+        "dependencies": {
+          "CarparkBookingApi.Repository.Interface": "1.0.0"
+        },
+        "runtime": {
+          "CarparkBookingApi.Business.Interface.dll": {}
+        }
+      },
+      "CarparkBookingApi.Repository.Interface/1.0.0": {
+        "runtime": {
+          "CarparkBookingApi.Repository.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarparkBookingApi.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarparkBookingApi.Business.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarparkBookingApi.Repository.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
